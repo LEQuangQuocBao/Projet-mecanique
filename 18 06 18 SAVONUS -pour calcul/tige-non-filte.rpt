@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - Compte-rendu d'état du Processeur IGES
+*****************************************************************
+=================================================================
+Informations générales
+=================================================================
+Envoi de l'identification du produit système en cours  : tige-non-filte.SLDPRT
+Réception de l'identification du produit système en cours: tige-non-filte.SLDPRT
+Nom de fichier                    : F:\EOLEINNE  12 12 17\18 06 18 SAVONUS -pour calcul\tige-non-filte.IGS
+Envoi du système en cours               : SolidWorks 2016
+Version du préprocesseur         : SolidWorks 2016
+Date de création du fichier           : 180622.140626
+Date de création du modèle          : 180622.140626
+Unités                        : MM
+Echelle de l'espace modèle            : 1
+Auteur                       : Administrateur
+Organisation                 : 
+
+
+=================================================================
+Informations sur le traitement des entités
+=================================================================
+
+
+=================================================================
+Analyse de précision d'un fichier IGES:
+=================================================================
+  Nombre le plus répandu de chiffres significatifs:               2
+  Nombre le plus grand de chiffres significatifs:                      5
+  Nombre moyen de chiffres significatifs :                2.84848
+  Distance maximale jusqu'à l'origine:                          690.014
+  Distance minimale jusqu'à l'origine:                                0
+  Nombre effectif de chiffres significatifs:                    5
+
+
+=================================================================
+Récapitulatif des entités
+=================================================================
+-----------------------------------------------------------------
+Nom de type                                         Nombre converti
+---- ----                                         ----- ---------
+100  Arc                                              8         8
+102  Composite curve                                  8         8
+110  Line                                             8         8
+120  Surface of revolution                            2         2
+124  Transformation matrix                            2         2
+126  Rational B-spline curve                         12        12
+128  Rational B-spline surface                        2         2
+142  Curve on a parametric surface                    4         4
+144  Trimmed parametric surface                       4         4
+314  Color definition                                 1         1
+_________________________________________________________________
+
+
+=================================================================
+Récapitulatif des résultats
+=================================================================
+Type de fonction SolidWorks                Nombre
+-----------------------                -----
+Fonction(s) volumique(s)                       1
+Fonction(s) surfacique(s)                     0
+Fonction(s) de courbe/d'esquisse                0
+--------------------------------------------
+Heure de début: vendredi, juin 22, 2018 14:06:27
+Heure de fin: vendredi, juin 22, 2018 14:06:29
+Durée de traitement: 0 days, 00 hours, 00 mins, 02 secs
